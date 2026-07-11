@@ -32,11 +32,27 @@ Quality is not an act, it is a habit.
 </p>
 
 ## 🧪 QA Stack
-Selenium • Playwright • TestNG • REST Assured • Postman • JUnit
+
+<p align="center">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+</p>
 
 ## 🛠 Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,mysql"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestLink-007ACC?style=for-the-badge"/>
 </p>
 
 ## 📊 GitHub Stats
