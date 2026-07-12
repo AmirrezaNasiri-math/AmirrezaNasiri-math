@@ -43,18 +43,12 @@ Quality is not an act, it is a habit.
 <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestLink-007ACC?style=for-the-badge"/>
 </p>
 
 ## 🛠 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker,mysql"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestLink-007ACC?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -80,8 +74,8 @@ Quality is not an act, it is a habit.
 
 ## 📫 Connect
 - 📧 amyrrdansyry1385@gmail.com
-- <img src="https://skillicons.dev/icons?i=telegram"/>: https://t.me/divbyzero
-- <img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
+- Telegram: https://t.me/divbyzero
+- Linkedin: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
 ---
 ⭐ Thanks for visiting my profile!
 
