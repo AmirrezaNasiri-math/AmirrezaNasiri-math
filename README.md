@@ -37,10 +37,13 @@ Quality is not an act, it is a habit.
 <img src="https://skillicons.dev/icons?i=selenium,postman"/>
 </p>
 
-<p align="center"
+<p align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestLink-007ACC?style=for-the-badge"/>
