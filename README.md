@@ -28,17 +28,16 @@ Quality is not an act, it is a habit.
 
 ## 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,mysql,c#"/>
 </p>
 
 ## 🧪 QA Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
@@ -78,8 +77,8 @@ Quality is not an act, it is a habit.
 
 ## 📫 Connect
 - 📧 amyrrdansyry1385@gmail.com
-- Telegram: https://t.me/divbyzero
-
+- <img src="https://skillicons.dev/icons?i=telegram"/>: https://t.me/divbyzero
+- <img src="https://skillicons.dev/icons?linkedin"/>: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
 ---
 ⭐ Thanks for visiting my profile!
 
