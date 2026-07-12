@@ -77,7 +77,7 @@ Quality is not an act, it is a habit.
 
 ## 📫 Connect
 - 📧 amyrrdansyry1385@gmail.com
-- Telegram: https://t.me/divbyzero
+- Telegram: https://t.me/DivbyZer0o
 - Linkedin: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
 ---
 ⭐ Thanks for visiting my profile!
