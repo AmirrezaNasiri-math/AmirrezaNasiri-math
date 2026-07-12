@@ -28,13 +28,16 @@ Quality is not an act, it is a habit.
 
 ## 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,mysql,c#"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,mysql,cs"/>
 </p>
 
 ## 🧪 QA Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman"/>
+<img src="https://skillicons.dev/icons?i=selenium,postman"/>
+</p>
+
+<p align="center"
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
@@ -78,7 +81,7 @@ Quality is not an act, it is a habit.
 ## 📫 Connect
 - 📧 amyrrdansyry1385@gmail.com
 - <img src="https://skillicons.dev/icons?i=telegram"/>: https://t.me/divbyzero
-- <img src="https://skillicons.dev/icons?linkedin"/>: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
+- <img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/amirreza-nasiri-8538a8421/
 ---
 ⭐ Thanks for visiting my profile!
 
