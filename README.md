@@ -1,7 +1,7 @@
 # Hi 👋 I'm Amirreza
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+QA+Engineer;Test+Automation+Engineer;Java+%7C+Python+%7C+Playwright+%7C+Selenium"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=QA+Engineer;Test+Automation+Engineer;Java+%7C+Spring+Boot+%7C+Playwright+%7C+TestNG"/>
 </p>
 
 <p align="center">
