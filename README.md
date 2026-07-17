@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./ChatGPT Image Jul 18, 2026, 02_58_22 AM.png" width="100%">
 </p>
 
 # Hi 👋 I'm Amirreza
