@@ -58,21 +58,12 @@ Quality is not an act, it is a habit.
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirrezaNasiri-math&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 🔥 Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AmirrezaNasiri-math&theme=tokyonight"/>
 </p>
 
-## 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmirrezaNasiri-math&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ## 🐍 Contribution Snake
 <p align="center">
