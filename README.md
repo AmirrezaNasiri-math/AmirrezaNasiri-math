@@ -1,141 +1,208 @@
 <div align="center">
 
-👋 Hi, I'm Amirreza Nasiri
+AMIRREZA NASIRI
 
-QA Automation Engineer · Backend Developer · Software Quality Enthusiast
+QA AUTOMATION ENGINEER
 
-<p>
-  <a href="https://github.com/AmirrezaNasiri-math">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+Test Automation · API Quality · Test Architecture · Backend Engineering
 
-<img src="https://komarev.com/ghpvc/?username=AmirrezaNasiri-math&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<br>
+
+<a href="https://github.com/AmirrezaNasiri-math">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AmirrezaNasiri-math&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
-🧭 About Me
+PROFILE
 
-I'm a QA Automation Engineer focused on building reliable, maintainable and scalable test systems.
+I build maintainable test automation systems, not just individual test scripts.
 
-I enjoy going beyond writing test cases — I care about test architecture, API quality, CI/CD, debugging, developer experience and automation strategy.
+My main focus is QA Automation Engineering — combining UI automation, API testing, test architecture, CI/CD and quality engineering practices. Alongside testing, I'm expanding into Java, Spring Boot and backend development.
 
-QA Automation
-      │
-      ├── UI Automation ─────── Playwright · Selenium
-      ├── API Testing ───────── Postman · REST Assured
-      ├── Test Architecture ── POM · BDD · Data-Driven
-      ├── CI/CD ─────────────── GitLab CI · GitHub Actions · Jenkins
-      ├── Performance ──────── JMeter
-      └── Quality Engineering ─ STLC · Risk-Based Testing · RCA
+                    SOFTWARE QUALITY
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+      UI TESTING         API TESTING       CI / CD
+        │                  │                  │
+   Playwright          Postman          GitLab CI
+   Selenium            REST Assured     Jenkins
+   Cypress             Validation       GitHub Actions
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                    TEST ARCHITECTURE
+                           │
+              POM · BDD · Data Driven
+              Risk Based · Shift Left
+              Reporting · RCA · Metrics
 
-🎯 Currently focused on
+TECHNOLOGY
 
-🧪 Building robust UI & API automation frameworks
+AUTOMATION & API
 
-☕ Deepening my Java + Spring Boot backend skills
-
-🐍 Growing my Python automation ecosystem
-
-🔌 Designing better API testing strategies
-
-⚙️ Improving CI/CD quality gates
-
-🐧 Learning Linux more deeply
-
-📐 Applying software-testing principles instead of simply increasing test count
-
-🛠️ Tech Stack
-
-🧪 Automation & Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=playwright,selenium,cypress,postman,jmeter" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=playwright" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://skillicons.dev/icons?i=cypress" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=jmeter" />
 </p>
 
-Also: REST Assured · TestNG · Cucumber · BDD · POM · Visual Regression · API Testing · Regression Testing · Risk-Based Testing
+Playwright · Selenium · Cypress · Postman · REST Assured · TestNG · Cucumber
 
-💻 Languages
+LANGUAGES
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,sql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-🌱 Backend
+BACKEND & DATABASE
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,django,postgres,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-⚙️ DevOps & CI/CD
+DEVOPS & ENGINEERING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,azure" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,azure" />
 </p>
 
-📊 Reporting & Tools
+WHAT I DO
 
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Allure · Jira · Confluence · DBeaver · Maven
+AUTOMATION
 
-🚀 Featured Work
+Designing reusable automation frameworks with:
+
+Page Object Model
+
+API + UI coverage
+
+Data-driven testing
+
+Cross-browser execution
+
+Reusable fixtures
+
+Trace & artifact collection
+
+</td>
+
+<td width="33%" valign="top">
+
+QUALITY
+
+Turning requirements into meaningful coverage:
+
+Risk-based testing
+
+Regression strategy
+
+Negative testing
+
+Boundary & edge cases
+
+Root Cause Analysis
+
+Quality metrics
+
+</td>
+
+<td width="33%" valign="top">
+
+ENGINEERING
+
+Building the ecosystem around tests:
+
+CI/CD pipelines
+
+Parallel execution
+
+Automated reports
+
+Dockerized environments
+
+Git workflows
+
+Backend integration
+
+</td>
+</tr>
+</table>
+
+FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🎭 Playwright Automation Framework
+PLAYWRIGHT E-COMMERCE
 
-TypeScript · Playwright · POM · API
+TypeScript · Playwright · POM
 
-A maintainable automation foundation designed around reusable components and clean test architecture.
+A scalable UI automation framework built around reusable architecture and maintainable test design.
 
-Highlights
+Core
 
-UI + API automation
+Smoke & regression suites
 
-Page Object Model
-
-Data-driven scenarios
+Negative & edge-case coverage
 
 Cross-browser execution
 
-Trace & artifact collection
+API integration
 
-CI/CD-ready structure
+CI/CD execution
+
+Test artifacts & traces
 
 </td>
 
 <td width="50%" valign="top">
 
-🧪 API Testing Ecosystem
+API AUTOMATION
 
-Postman · REST Assured · Java
+Java · REST Assured · TestNG
 
-A practical API-testing workflow covering functional, negative and integration scenarios.
+API-focused automation for validating backend behavior independently and as part of end-to-end flows.
 
-Highlights
-
-Environment-based configuration
-
-Request chaining
+Core
 
 Authentication flows
 
-Schema / response validation
+Request chaining
 
-Negative testing
+Response validation
 
-Automated regression suites
+Negative scenarios
+
+Data-driven tests
+
+Regression execution
 
 </td>
 </tr>
@@ -143,13 +210,13 @@ Automated regression suites
 <tr>
 <td width="50%" valign="top">
 
-⚡ Performance Testing
+PERFORMANCE TESTING
 
 Apache JMeter · Groovy
 
-Performance scenarios designed for understanding system behavior under realistic workloads.
+Performance scenarios for understanding how systems behave under increasing workloads.
 
-Highlights
+Core
 
 Load testing
 
@@ -167,13 +234,13 @@ HTML reporting
 
 <td width="50%" valign="top">
 
-☕ Backend Development
+SPRING BOOT BACKEND
 
 Java · Spring Boot · PostgreSQL
 
-I'm actively developing my backend engineering skills alongside QA automation.
+Expanding from QA automation into backend engineering and REST API development.
 
-Current areas
+Current focus
 
 REST APIs
 
@@ -181,123 +248,104 @@ Spring Data JPA
 
 PostgreSQL
 
-Authentication
-
 Validation
+
+Authentication
 
 Layered architecture
 
-Unit & integration testing
+Integration testing
 
 </td>
 </tr>
 </table>
 
-🧠 Testing Mindset
-
-Good automation isn't about having more tests.
-It's about getting more confidence from the right tests.
-
-Requirement
-    ↓
-Risk Analysis
-    ↓
-Test Design
-    ↓
-Automation
-    ↓
-CI/CD
-    ↓
-Reports & Metrics
-    ↓
-Root Cause Analysis
-    ↓
-Continuous Improvement
-
-Areas I care about
-
-STLC · Risk-Based Testing · Shift-Left · BDD · POM · RCA · Visual Regression · Quality Gates
-
-📈 GitHub Activity
+ENGINEERING PRINCIPLES
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirrezaNasiri-math&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+TEST THE RISK — NOT JUST THE REQUIREMENT.
 
 <br>
 
+REQUIREMENT → RISK → TEST DESIGN → AUTOMATION → CI/CD → FEEDBACK
+
+<br>
+
+Reliable automation should be
+
+Readable · Maintainable · Fast · Deterministic · Useful
+
+</div>
+
+GITHUB
+
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirrezaNasiri-math&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirrezaNasiri-math&theme=tokyonight&hide_border=true" />
 
 </div>
 
-🐍 Contribution Snake
+CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmirrezaNasiri-math/AmirrezaNasiri-math/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AmirrezaNasiri-math/AmirrezaNasiri-math/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-🏆 Achievements
+CERTIFICATION & LEARNING
 
-🥇 ISTQB® Certified Tester – Foundation Level (CTFL)
+<table>
+<tr>
+<td>
 
-🤖 Focused on QA Automation Engineering
+ISTQB® CTFL
 
-🔌 Building experience across UI, API and Performance Testing
+Certified Tester — Foundation Level
 
-☕ Expanding into Java / Spring Boot backend development
+</td>
+<td>
 
-🧩 Interested in test architecture and scalable automation
+CURRENT
 
-📚 Continuous learner in software engineering, testing and Linux
+Java · Spring Boot · API Testing · CI/CD · Linux
 
-📚 What I'm Learning
+</td>
+<td>
 
-now:
-  - Spring Boot
-  - REST API Design
-  - Advanced Java
-  - API Automation
-  - CI/CD
-  - Linux
+NEXT
 
-next:
-  - Advanced Test Architecture
-  - Distributed Systems
-  - Cloud & DevOps
-  - Advanced Performance Testing
+Advanced Test Architecture · DevOps · Performance Testing
 
-🌐 Connect With Me
+</td>
+</tr>
+</table>
+
+CONTACT
 
 <div align="center">
 
-Interested in QA Automation, backend development, testing architecture or building reliable software?
-
-Let's connect.
+If you're interested in QA Automation, API Testing, Test Architecture or Backend Engineering, let's connect.
 
 <br>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <br><br>
 
-<sub>Built with curiosity, caffeine & a suspicious number of test cases ☕🧪</sub>
-
-<br><br>
-
-⭐ If you find something useful here, consider giving a repository a star.
+<sub>Building quality into software — one test, one framework, one pipeline at a time.</sub>
 
 </div>
