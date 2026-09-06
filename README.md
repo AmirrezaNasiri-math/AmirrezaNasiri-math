@@ -1,86 +1,60 @@
 <div align="center">
 
-# <span style="color:#f97316;">Amirreza</span> Nasiri
+# Amirreza Nasiri
 
-### SOFTWARE QA ENGINEER
-
-`QA Automation` · `API Testing` · `Quality Engineering`
+### 🤖 Software QA Engineer
 
 <br>
 
 <a href="mailto:amyrrdansyry1385@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="28"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/AmirrezaNasiri-math">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28"/>
+<img src="https://komarev.com/ghpvc/?username=AmirrezaNasiri-math&style=for-the-badge&color=grey&label=VIEWS" />
 </a>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
 
 </div>
 
 ---
 
-## 👤 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22"/>
-
-**Software QA Engineer**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="22"/>
-
-**Test Automation**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="22"/>
-
-**API Testing**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22"/>
-
-**Linux & CI/CD**
-
-</td>
-
-<td width="50%">
+## ⚡ About Me
 
 ```yaml
-focus:
-  - Test Automation
-  - API Testing
-  - Software Testing
-
-languages:
-  - Java
-  - Python
-  - JavaScript
-  - TypeScript
-  - SQL
+name: Amirreza Nasiri
+role: Software QA Engineer
+focus: QA Automation • API Testing • Software Quality
+stack: Java • Python • Playwright • Selenium • REST Assured
+currently_learning: Spring Boot • Backend Development • CI/CD
+certification: ISTQB CTFL
 ```
 
-</td>
-</tr>
-</table>
+- 🧪 Test Automation & API Testing
+- 🔍 Functional, Regression & Negative Testing
+- 🔌 Postman & REST Assured
+- ⚡ Performance Testing with JMeter
+- 🔄 CI/CD automation & quality gates
+- ☕ Java & Spring Boot backend development
 
 ---
 
-## 🧪 QA & Testing
+## 🧰 Tech Stack
+
+### 🧪 Automation & API Testing
 
 <div align="center">
 
@@ -92,99 +66,88 @@ languages:
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="55"/>
 
-<br>
-
-`Playwright` · `Selenium` · `Postman` · `JMeter` · `REST Assured` · `TestNG` · `Pytest`
-
 </div>
+
+<p align="center">
+Playwright &nbsp;•&nbsp; Selenium &nbsp;•&nbsp; Postman &nbsp;•&nbsp; REST Assured &nbsp;•&nbsp; TestNG &nbsp;•&nbsp; Pytest
+</p>
 
 ---
 
-## 💻 Programming
+### 💻 Languages
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="58"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55"/>
 
 </div>
 
 ---
 
-## 🧱 Frameworks & Backend
+### ☕ Backend
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="58"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="58"/>
-
-<br><br>
-
-`Spring Boot` · `Django` · `JPA` · `Hibernate` · `PostgreSQL` · `MySQL`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="55"/>
 
 </div>
 
 ---
 
-## ⚙️ DevOps & CI/CD
+### ⚙️ DevOps & CI/CD
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="55"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="55"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55"/>
-
-<br><br>
-
-`Git` · `GitHub` · `GitLab` · `Docker` · `Jenkins` · `Linux` · `Azure DevOps`
 
 </div>
 
 ---
 
-## 🛠️ Tools
+### 📊 QA & Reporting
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="50"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/>
-
-<br>
-
-`IntelliJ IDEA` · `VS Code` · `Jira` · `DBeaver` · `Allure` · `TestLink`
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"/>
+&nbsp;&nbsp;
 
 </div>
+
+<p align="center">
+STLC &nbsp;•&nbsp; Risk-Based Testing &nbsp;•&nbsp; BDD &nbsp;•&nbsp; POM &nbsp;•&nbsp; RCA
+</p>
 
 ---
 
@@ -193,43 +156,87 @@ languages:
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="55"/>
+### 🎭 Playwright Automation
 
-### Playwright
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="50"/>
 
-`Automation Framework`
+**TypeScript · Playwright · POM**
 
-</td>
+<br>
 
-<td align="center" width="25%">
+UI automation framework with
+reusable Page Objects and
+cross-browser testing.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55"/>
+<br>
 
-### API Testing
-
-`REST Assured · Postman`
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="55"/>
-
-### JMeter
-
-`Performance Testing`
+`UI Testing` `API Testing` `Regression`
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55"/>
+### 🔌 API Testing
 
-### Spring Boot
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
 
-`Backend Projects`
+**Java · REST Assured · TestNG**
+
+<br>
+
+Automated REST API testing
+with functional and negative
+test scenarios.
+
+<br>
+
+`REST API` `JSON` `Authentication`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚡ JMeter Performance
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"/>
+
+**JMeter · Groovy**
+
+<br>
+
+Load and stress testing
+with parameterized scenarios
+and performance reports.
+
+<br>
+
+`Load` `Stress` `Performance`
+
+</td>
+
+<td width="50%" align="center">
+
+### ☕ Spring Boot
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
+
+**Java · Spring Boot · PostgreSQL**
+
+<br>
+
+Backend development with
+REST APIs, JPA and relational
+databases.
+
+<br>
+
+`REST API` `JPA` `PostgreSQL`
 
 </td>
 
@@ -238,13 +245,15 @@ languages:
 
 ---
 
-## 📚 Testing Knowledge
+## 🧠 Testing Knowledge
 
 <div align="center">
 
-`STLC` · `Risk-Based Testing` · `BDD` · `POM` · `Shift-Left`
+`STLC` · `Risk-Based Testing` · `Shift-Left` · `BDD` · `POM`
 
-`Regression` · `Smoke` · `Negative Testing` · `RCA` · `QA Metrics`
+`Functional Testing` · `Regression` · `Smoke` · `Negative Testing`
+
+`Boundary Value Analysis` · `Equivalence Partitioning` · `RCA`
 
 </div>
 
@@ -255,6 +264,16 @@ languages:
 <div align="center">
 
 ### ISTQB® Certified Tester – Foundation Level
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AmirrezaNasiri-math/AmirrezaNasiri-math/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -274,40 +293,46 @@ languages:
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&theme=github_dark&hide_border=true"
 />
 
-<br><br>
+</div>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AmirrezaNasiri-math&theme=github-dark-blue&hide_border=true"
-/>
+---
+
+## 🏅 Beyond Code
+
+<div align="center">
+
+🎓 **B.Sc. Computer Engineering**
+
+&nbsp;•&nbsp;
+
+🧪 **ISTQB CTFL**
+
+&nbsp;•&nbsp;
+
+📚 **Software Testing**
+
+&nbsp;•&nbsp;
+
+☕ **Java & Backend Development**
+
+&nbsp;•&nbsp;
+
+🐧 **Linux**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmirrezaNasiri-math/AmirrezaNasiri-math/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="mailto:amyrrdansyry1385@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
-</a>
-
-<a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
+<a href="mailto:amyrrdansyry1385@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/AmirrezaNasiri-math">GitHub</a>
 
 <br><br>
 
-<sub>Building quality into software, one test at a time.</sub>
+<i>Building quality into software, one test at a time.</i>
 
 </div>
