@@ -1,8 +1,33 @@
 <div align="center">
 
-# Amirreza Nasiri
+<!-- Animated Neon Banner -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=220&section=header&text=Amirreza%20Nasiri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20QA%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"
+/>
 
-### 🤖 Software QA Engineer
+<br>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Software+QA+Engineer;%F0%9F%A7%AA+QA+Automation+Engineer;%F0%9F%94%8C+API+Testing;%E2%98%95+Java+%7C+Python;%F0%9F%9A%80+Building+Reliable+Software"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<a href="mailto:amyrrdansyry1385@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/AmirrezaNasiri-math">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br>
 
