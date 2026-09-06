@@ -2,10 +2,10 @@
 
 <!-- Animated Neon Banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:EC4899&height=220&section=header&text=Amirreza%20Nasiri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20QA%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"
+  src="./AmirrezaNasiri-animated-banner.svg"
+  width="100%"
+  alt="Amirreza Nasiri - Software QA Engineer"
 />
-
-<br>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
