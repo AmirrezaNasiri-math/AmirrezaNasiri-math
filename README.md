@@ -1,39 +1,70 @@
 <div align="center">
 
-# Hi, I'm Amirreza Nasiri 👋
+# <span style="color:#f97316;">Amirreza</span> Nasiri
 
-### Software QA Engineer | QA Automation | API Testing
+### SOFTWARE QA ENGINEER
 
-<p>
-  <a href="mailto:amyrrdansyry1385@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AmirrezaNasiri-math">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+`QA Automation` · `API Testing` · `Quality Engineering`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&theme=dark" />
+<a href="mailto:amyrrdansyry1385@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="28"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AmirrezaNasiri-math">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28"/>
+</a>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
 
 </div>
 
 ---
 
-## About Me
+## 👤 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22"/>
+
+**Software QA Engineer**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="22"/>
+
+**Test Automation**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="22"/>
+
+**API Testing**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22"/>
+
+**Linux & CI/CD**
+
+</td>
+
+<td width="50%">
 
 ```yaml
-name: Amirreza Nasiri
-role: Software QA Engineer
 focus:
   - Test Automation
   - API Testing
   - Software Testing
-  - Quality Engineering
 
 languages:
   - Java
@@ -41,111 +72,31 @@ languages:
   - JavaScript
   - TypeScript
   - SQL
-
-currently_learning:
-  - Spring Boot
-  - Backend Development
-  - CI/CD
-  - Linux
 ```
 
-I am a **Software QA Engineer** focused on test automation, API testing,
-software quality, and building maintainable testing solutions.
-
-I enjoy understanding how systems work, finding failure points, and turning
-repetitive testing into reliable automation.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 QA & Test Automation
+## 🧪 QA & Testing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=playwright,selenium,postman,jmeter&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="55"/>
+
+<br>
+
+`Playwright` · `Selenium` · `Postman` · `JMeter` · `REST Assured` · `TestNG` · `Pytest`
 
 </div>
-
-### Automation
-
-- Playwright
-- Selenium
-- Pytest
-- TestNG
-- REST Assured
-- Page Object Model (POM)
-- Data-Driven Testing
-- BDD
-- Cucumber
-
-### API Testing
-
-- Postman
-- REST API Testing
-- REST Assured
-- Request / Response Validation
-- Authentication & Authorization Flows
-- Negative Testing
-- API Regression Testing
-- JSON Validation
-
-### Performance Testing
-
-- Apache JMeter
-- Load Testing
-- Stress Testing
-- Performance Test Scenarios
-- Parameterization
-- Assertions
-- HTML Reports
-
----
-
-## 🔍 Software Testing
-
-```text
-Requirements
-     │
-     ▼
-Risk Analysis
-     │
-     ▼
-Test Design
-     │
-     ├── Functional Testing
-     ├── Negative Testing
-     ├── Boundary Testing
-     ├── Regression Testing
-     └── API Testing
-     │
-     ▼
-Automation
-     │
-     ▼
-CI/CD
-     │
-     ▼
-Reports & Metrics
-     │
-     ▼
-Root Cause Analysis
-```
-
-### Testing Knowledge
-
-- STLC
-- Risk-Based Testing
-- Shift-Left Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Negative Testing
-- Boundary Value Analysis
-- Equivalence Partitioning
-- API Testing
-- UI Testing
-- Visual Regression
-- Root Cause Analysis (RCA)
-- QA Metrics & KPIs
 
 ---
 
@@ -153,267 +104,210 @@ Root Cause Analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="58"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="58"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="58"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="58"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="58"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="58"/>
 
 </div>
 
-### Java
-
-- Core Java
-- OOP
-- Collections
-- Generics
-- Exception Handling
-- Maven
-- TestNG
-- REST Assured
-
-### Python
-
-- Python
-- Test Automation
-- Pytest
-- API Testing
-- `requests`
-
-### Web & Data
-
-- JavaScript
-- TypeScript
-- SQL
-- MySQL
-- PostgreSQL
-- JSON
-
 ---
 
-## ☕ Backend Development
+## 🧱 Frameworks & Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,django,postgres,mysql&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="58"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="58"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="58"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="58"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="58"/>
+
+<br><br>
+
+`Spring Boot` · `Django` · `JPA` · `Hibernate` · `PostgreSQL` · `MySQL`
 
 </div>
 
-I'm also developing my backend engineering skills alongside QA.
-
-### Spring Boot
-
-- REST APIs
-- Spring Boot
-- Spring Data JPA
-- PostgreSQL
-- Maven
-- Layered Architecture
-- Validation
-- Authentication
-- Integration Testing
-
-### Django
-
-- Django
-- REST-oriented backend development
-- PostgreSQL
-- Database migrations
-
 ---
 
-## ⚙️ CI/CD & DevOps
+## ⚙️ DevOps & CI/CD
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,azure&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55"/>
+
+<br><br>
+
+`Git` · `GitHub` · `GitLab` · `Docker` · `Jenkins` · `Linux` · `Azure DevOps`
 
 </div>
 
-- Git
-- GitHub
-- GitLab
-- GitLab CI/CD
-- GitHub Actions
-- Jenkins
-- Docker
-- Linux
-- Azure DevOps
-
-### CI/CD Testing
-
-```text
-Push
- │
- ▼
-Build
- │
- ▼
-Automated Tests
- │
- ├── UI Tests
- ├── API Tests
- └── Regression
- │
- ▼
-Reports
- │
- ▼
-Quality Gate
-```
-
 ---
 
-## 📊 Reporting & QA Tools
+## 🛠️ Tools
 
-- Allure Report
-- Postman
-- JMeter Reports
-- Jira
-- TestLink
-- DBeaver
-- IntelliJ IDEA
-- VS Code
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="50"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/>
+
+<br>
+
+`IntelliJ IDEA` · `VS Code` · `Jira` · `DBeaver` · `Allure` · `TestLink`
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎭 Playwright Automation Framework
+<table>
+<tr>
 
-**Playwright · TypeScript · POM · API Testing**
+<td align="center" width="25%">
 
-A structured automation project focused on maintainability,
-reusability and reliable UI/API test execution.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="55"/>
 
-**Includes:**
+### Playwright
 
-- Page Object Model
-- UI Automation
-- API Testing
-- Smoke & Regression Testing
-- Negative Scenarios
-- Cross-Browser Testing
-- Test Traces
-- CI/CD Integration
-- Automated Reporting
+`Automation Framework`
 
----
+</td>
 
-### 🔌 API Testing Framework
+<td align="center" width="25%">
 
-**Java · REST Assured · TestNG**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55"/>
 
-Automation framework for validating REST APIs through functional,
-negative and regression scenarios.
+### API Testing
 
-**Includes:**
+`REST Assured · Postman`
 
-- Request / Response Validation
-- Authentication
-- JSON Validation
-- Negative Testing
-- TestNG
-- REST Assured
-- Data-Driven Tests
+</td>
 
----
+<td align="center" width="25%">
 
-### ⚡ JMeter Performance Testing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="55"/>
 
-**Apache JMeter · Groovy**
+### JMeter
 
-Performance testing scenarios for analyzing application behavior
-under different workloads.
+`Performance Testing`
 
-**Includes:**
+</td>
 
-- Load Testing
-- Stress Testing
-- Spike Testing
-- Parameterization
-- Assertions
-- Performance Reports
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55"/>
+
+### Spring Boot
+
+`Backend Projects`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### ☕ Spring Boot Backend Projects
+## 📚 Testing Knowledge
 
-**Java · Spring Boot · PostgreSQL**
+<div align="center">
 
-Backend projects focused on learning and applying production-oriented
-REST API and database concepts.
+`STLC` · `Risk-Based Testing` · `BDD` · `POM` · `Shift-Left`
 
-**Focus:**
+`Regression` · `Smoke` · `Negative Testing` · `RCA` · `QA Metrics`
 
-- REST APIs
-- JPA / Hibernate
-- PostgreSQL
-- Authentication
-- Validation
-- Database Design
-- Integration Testing
+</div>
 
 ---
 
 ## 🏆 Certification
 
-### ISTQB® Certified Tester – Foundation Level (CTFL)
+<div align="center">
 
-Software testing fundamentals based on internationally recognized
-testing principles and practices.
+### ISTQB® Certified Tester – Foundation Level
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=AmirrezaNasiri-math&show_icons=true&theme=dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=AmirrezaNasiri-math&show_icons=true&theme=github_dark&hide_border=true"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&theme=dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaNasiri-math&layout=compact&theme=github_dark&hide_border=true"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AmirrezaNasiri-math&theme=dark&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AmirrezaNasiri-math&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🐍 Contribution Snake
 
 <div align="center">
 
-`Spring Boot` · `Advanced Java` · `Backend Development` · `CI/CD` · `Linux`
+<img src="https://raw.githubusercontent.com/AmirrezaNasiri-math/AmirrezaNasiri-math/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect
 
 <div align="center">
 
 <a href="mailto:amyrrdansyry1385@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
 
 <a href="https://www.linkedin.com/in/amirreza-nasiri-a7a670427/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br><br>
 
-**Quality is not just about finding bugs —  
-it's about building confidence in software.**
+<sub>Building quality into software, one test at a time.</sub>
 
 </div>
